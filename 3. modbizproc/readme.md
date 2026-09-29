@@ -1,3 +1,4 @@
+# Моделирование бизнес процессов
 ## Кейс 1: Моделирование процесса бронирования в отеле (IDEF0 + BPMN 2.0)
 https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/3.%20modbizproc/1.%20booking_hotel
 
