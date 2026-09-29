@@ -2,4 +2,4 @@
 https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/3.%20modbizproc/1.%20booking_hotel
 
 ## Кейс 2: Модель формы ввода информации о новом поставщике
-
+https://github.com/semenova-sa/portfolio-uchebnoe/tree/main/3.%20modbizproc/2.%20formavvoda
